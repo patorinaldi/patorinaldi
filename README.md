@@ -3,7 +3,7 @@
 I'm a passionate software developer currently specializing in back-end development, with experience in front-end technologies as well. With over 10 years of international experience in hospitality management across Spain, Denmark, Australia, and New Zealand, I’ve built a strong foundation in leadership, teamwork, and problem-solving. These skills, combined with my love for programming, enable me to work effectively in diverse teams and deliver well-rounded software solutions.
 
 ## 💻 Tech Stack
-- **Languages**: Java, JavaScript, SQL, PHP
+- **Languages**: Java, SQL, HTML, CSS, Javascript
 - **Frameworks**: Spring Boot, Bootstrap, Foundation
 - **Tools**: Postman, Git, IntelliJ IDEA
 - **Databases**: MySQL, PostgreSQL
